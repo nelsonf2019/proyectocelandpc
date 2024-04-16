@@ -254,6 +254,7 @@ nav .menu-btn,
     background-size: cover;
     background-image: url(images/presentation.png);
     text-align: center;
+   
 }
 #presentaion h1 {
 font-size: 2rem;
@@ -548,7 +549,7 @@ font-size: 2rem;
         margin-bottom: 100px;
     }
 	#presentaion{
-        display: none;
+        /* display: none; */
     }
 }
 
@@ -572,6 +573,17 @@ font-size: 2rem;
        
        text-align: center;
     }
+    #presentaion{
+        padding-top: 100px;
+        width:60%;
+        height:600px;
+        background-image: none;
+        margin-left: 70px;
+    }
+    #presentaion h1 p{
+    font-size: 2rem;
+    }
+
 }
 
 @media(max-width:600px){
