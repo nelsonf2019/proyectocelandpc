@@ -26,9 +26,9 @@ export const NavBar =()=>{
                 <span className="nav-icon"></span>
             </label>
             <ul className="menu">
-                <li> <a href="#" className="active">Home</a></li>
-                <li> <a href="#features">Feature</a></li>
-                <li> <a href="#about">about</a></li>
+                <li> <a href="#" className="active">Inicio</a></li>
+                <li> <a href="#features">Proyectos</a></li>
+                <li> <a href="#about">acerca de</a></li>
                 <li> <a href="#contact">Contacto</a></li>
                 <li> <a href="#">Descarga</a></li>
             </ul>
